@@ -1,0 +1,17 @@
+.parallax-container {
+      height: 300px;
+}
+
+.color{
+    background-color: #ff9900;
+}
+.card-panel{
+    margin: 0px 0px !important;
+}
+
+.section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: -15px !important;
+
+}
